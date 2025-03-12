@@ -20,7 +20,7 @@ Study: Degree in Computer Engineering
 University: Universitat Rovira i Virgili  
 Year: 2024  
 
-## Undergrad Thesis I am currently directing
+## Undergrad Thesis I am currently directing on topic Artificial Intelligence
 
 Title: Call service to automate reservations  
 Student: GRM  
@@ -46,17 +46,17 @@ Study: Degree in Computer Engineering
 University: Universitat Rovira i Virgili  
 Year: 2025  
 
-## SUSE Hackweek projects
+## SUSE Hackweek projects on topic Artificial Intelligence
 
-Package MONAI Machine Learning Models for Medical Applications 
+Package MONAI Machine Learning Models for Medical Applications  
 https://hackweek.opensuse.org/24/projects/package-monai-machine-learning-models-for-medical-applications  
 
 
-Hack on project MONAI (Medical Open Network for Artificial Intelligence) 
+Hack on project MONAI (Medical Open Network for Artificial Intelligence)  
 https://hackweek.opensuse.org/24/projects/hack-on-project-monai-medical-open-network-for-artificial-intelligence  
 
 
-Chest X-Ray Medical Diagnosis with Deep Learning and Javascript 
+Chest X-Ray Medical Diagnosis with Deep Learning and Javascript  
 https://hackweek.opensuse.org/24/projects/chest-x-ray-medical-diagnosis-with-deep-learning-and-javascript  
  
 
