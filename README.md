@@ -14,7 +14,7 @@ Study: Degree in Computer Engineering
 University: Universitat Rovira i Virgili  
 Year: 2024  
 
-Title: DESIGN AND DEVELOPMENT OF A FITNESS APPLICATION WITH ARTIFICIAL INTELLIGENCE  
+Title: Design and deelopment of a fitness application with Artificial Intelligence  
 Student: Alejandro Trujillo Ortiz  
 Study: Degree in Computer Engineering  
 University: Universitat Rovira i Virgili  
