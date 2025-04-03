@@ -1,6 +1,6 @@
 # AI-TFG
 
-## Undergrad Thesis I directed on topic Artificial Intelligence
+## Undergrad Thesis I supervised on topic Artificial Intelligence
 
 Title: Automation of deployment of Artificial Intelligence Models made with MONAI on Amazon Web Services (AWS)  
 Student: Tarek Ben Hamdouch  
@@ -20,7 +20,7 @@ Study: Degree in Computer Engineering
 University: Universitat Rovira i Virgili  
 Year: 2024  
 
-## Undergrad Thesis I am currently directing on topic Artificial Intelligence
+## Undergrad Thesis I am currently supervising on topic Artificial Intelligence
 
 Title: Call service to automate reservations  
 Student: GRM  
