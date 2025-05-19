@@ -61,5 +61,5 @@ https://hackweek.opensuse.org/24/projects/chest-x-ray-medical-diagnosis-with-dee
  
 ## Google Summer of Code
 
-AI-Driven Test Selection in Uyuni's Pull Request Acceptance Tests
+AI-Driven Test Selection in Uyuni's Pull Request Acceptance Tests   
 https://summerofcode.withgoogle.com/programs/2025/projects/2mlAbkgB
