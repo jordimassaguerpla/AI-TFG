@@ -46,6 +46,12 @@ Study: Degree in Computer Engineering
 University: Universitat Rovira i Virgili  
 Year: 2025  
 
+Title: Agentic System for an online Customer Center 
+Student: AEP
+Study: Degree in Web and Mobile Application Development Techniques
+University: Universitat Rovira i Virgili  
+Year 2025   
+
 ## SUSE Hackweek projects on topic Artificial Intelligence
 
 Package MONAI Machine Learning Models for Medical Applications  
